@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class multiplication {
 
     public static void main(String[] args) {
-        
+
         Scanner scn = new Scanner(System.in);
 
         System.out.println("세 자리의 정수를 두 개 입력하세요.");
@@ -21,6 +21,5 @@ public class multiplication {
         System.out.println(a * Integer.parseInt(str));
 
     }
-
 
 }
